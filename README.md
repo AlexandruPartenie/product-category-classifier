@@ -46,7 +46,7 @@ Ruleaza in terminal din folderul proiectului:
 Modelul foloseste un pipeline TF-IDF + LinearSVC si este salvat automat in folderul "models", care ar trebui inclus in folderul proiectului.
 
 
-2️. Testarea modelului
+2. Testarea modelului
 Dupa ce modelul este antrenat:
 
 "python predict_category.py --model models/category_model.pkl"
